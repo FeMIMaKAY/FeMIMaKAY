@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Birthday reminder app using React, Beach Resort project**
 
-- 🌱 I’m currently learning **React,Vue.js, PHP, Solidity,Node.js**
+- 🌱 I’m currently learning **React, PHP, Solidity,Node.js**
 
 - 👯 I’m looking to collaborate on **projects involving the Web and blockchain**
 
