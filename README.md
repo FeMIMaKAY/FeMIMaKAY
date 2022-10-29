@@ -6,19 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/code_makay" target="blank"><img src="https://img.shields.io/twitter/follow/code_makay?logo=twitter&style=for-the-badge" alt="code_makay" /></a> </p>
 
-- 🔭 I’m currently working on **Birthday reminder app using React, Beach Resort project**
+- 🔭 I’m currently working on **a consulting company website using React**
 
-- 🌱 I’m currently learning **React, PHP, Solidity,Node.js**
+- 🌱 I’m currently learning **Next.js,Node.js**
 
 - 👯 I’m looking to collaborate on **projects involving the Web and blockchain**
-
-- 🤝 I’m looking for help with **My backend skills, Blockchain tech, vue.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/FeMIMaKAY](https://github.com/FeMIMaKAY)
-
-- 📝 I regularly write articles on [Working on something...](Working on something...)
-
-- 💬 Ask me about **Anything tech..**
 
 - 📫 How to reach me **Makanjuolafemi17@gmail.com **
 
